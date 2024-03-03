@@ -1,4 +1,4 @@
-# Les-données-sur-l-ducation-de-la-banque-Mondiale
+# Les-données-sur-l'éducation-de-la-banque-Mondiale
 
 Une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université
 Le projet d’expansion à l’international de l’entreprise
